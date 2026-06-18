@@ -1,2 +1,2 @@
-## Animación de la variación del spline cúbico 
+## Taller 04: splines cúbicos 
 ![Spline](animacion_spline.gif)
